@@ -1,2 +1,2 @@
 # wise1ight.github.io
-My Github Blog
+My GitHub Blog
