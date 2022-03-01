@@ -30,7 +30,6 @@ twitter_username: jekyllrb
 github_username:  wise1ight
 
 # Build settings
-theme: jekyll-theme-yat
 remote_theme: jeffreytse/jekyll-theme-yat
 plugins:
   - jekyll-feed
