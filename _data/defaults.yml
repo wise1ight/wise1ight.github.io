@@ -2,5 +2,5 @@ home:
   heading: "헤드"
   subheading: "서브헤드"
   banner:
-    video: "/assets/video/the-journey-of-dodos.mp4"
+    video: https://nft-multi-content.upbit.com/f4052e55-666c-4ba8-bffb-03c8ced51a00_encoded.mp4
     loop: true
