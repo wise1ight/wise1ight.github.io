@@ -30,7 +30,7 @@ github_username: wise1ight
 
 header_pages:
   - index.html
-  - about.markdown
+  - about.md
   - categories.html
   - tags.html
 
