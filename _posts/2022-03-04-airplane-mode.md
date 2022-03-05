@@ -70,4 +70,4 @@ Just promise me you won't leave
 
 ## 듣기
 
-![](https://www.youtube.com/watch?v=ZHIK_3-OW8w)
+![](https://www.youtube.com/watch?v=ZHIK_3-OW8w?width=500&height=500)
