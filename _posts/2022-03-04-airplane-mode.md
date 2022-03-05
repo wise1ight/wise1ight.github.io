@@ -68,6 +68,14 @@ Just promise me you won't leave
 나 좀 돌보게 내버려둬  
 기댈 곳이 필요한 난 in airplane mode
 
+## 구절
+
+> 책임져줄 것도 아닌데  
+> 괜히 기대해 뭐할래
+
+> 내가 찾을 때에는 항상  
+> Baby you're so much busy
+
 ## 듣기
 
-![](https://www.youtube.com/watch?v=ZHIK_3-OW8w?width=500&height=500)
+![](https://www.youtube.com/watch?v=ZHIK_3-OW8w)
