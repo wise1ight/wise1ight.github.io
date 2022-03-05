@@ -3,6 +3,7 @@ layout: post
 title:  "Airplane mode"
 date:   2022-03-04 01:30:00 +0900
 categories: 음악
+tags: 윤하 RescuE
 ---
 ![RescuE](/assets/img/rescue-album-cover.jpg)
 
