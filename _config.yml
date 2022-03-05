@@ -26,7 +26,13 @@ description: >- # this means to ignore newlines until "baseurl:"
   김현욱의 GitHub 블로그.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://myblog.wiselight.kr" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  wise1ight
+github_username: wise1ight
+
+header_pages:
+  - index.html
+  - about.markdown
+  - categories.html
+  - tags.html
 
 defaults:
   home:
@@ -37,7 +43,7 @@ defaults:
       loop: true
 
 disqus:
-  shortname: "wise1ight"
+  shortname: wise1ight
 
 # Build settings
 remote_theme: jeffreytse/jekyll-theme-yat

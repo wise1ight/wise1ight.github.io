@@ -3,8 +3,6 @@ layout: about
 title: About
 ---
 
-<h2>About</h2>
+## About
 
-<p>
 자기소개가 들어갈 영역.
-</p>
