@@ -67,3 +67,6 @@ Just promise me you won't leave
 연결 안 돼서 미안한데  
 나 좀 돌보게 내버려둬  
 기댈 곳이 필요한 난 in airplane mode
+
+## 듣기
+![](//www.youtube.com/watch?v=ZHIK_3-OW8w)
