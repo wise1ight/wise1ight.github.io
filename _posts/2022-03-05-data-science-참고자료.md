@@ -3,6 +3,7 @@ layout: post
 title:  "Data Science 참고자료"
 date:   2022-03-05 23:45:00 +0900
 categories: 데이터사이언스
+tags: ISLR
 ---
 
 [Pabii Blog](https://blog.pabii.co.kr/study-textbook-recommendation/)  
