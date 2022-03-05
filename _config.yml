@@ -20,16 +20,30 @@
 
 title: 賢旭
 email: kuvh@live.co.kr
+author: Hyeonuk Kim
+copyright: "Copyright (c) {currentYear} {author}"
 description: >- # this means to ignore newlines until "baseurl:"
   김현욱의 GitHub 블로그.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://myblog.wiselight.kr" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  wise1ight
 
+defaults:
+  home:
+    heading: "어질고 빛나는 사람"
+    subheading: "Solve real-world and virtual-world problems using new technologies."
+    banner:
+      video: https://nft-multi-content.upbit.com/f4052e55-666c-4ba8-bffb-03c8ced51a00_encoded.mp4
+      loop: true
+
 # Build settings
 remote_theme: jeffreytse/jekyll-theme-yat
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-spaceship
 
 # Exclude from processing.
 # The following items will not be processed, by default.
