@@ -36,6 +36,9 @@ defaults:
       video: https://nft-multi-content.upbit.com/f4052e55-666c-4ba8-bffb-03c8ced51a00_encoded.mp4
       loop: true
 
+disqus:
+  shortname: "wise1ight"
+
 # Build settings
 remote_theme: jeffreytse/jekyll-theme-yat
 plugins:
