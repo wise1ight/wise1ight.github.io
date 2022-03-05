@@ -69,4 +69,5 @@ Just promise me you won't leave
 기댈 곳이 필요한 난 in airplane mode
 
 ## 듣기
-![](//www.youtube.com/watch?v=ZHIK_3-OW8w)
+
+![](https://www.youtube.com/watch?v=ZHIK_3-OW8w)
