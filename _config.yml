@@ -47,6 +47,9 @@ disqus:
 
 # Build settings
 remote_theme: jeffreytse/jekyll-theme-yat
+markdown: kramdown
+kmarkdown:
+  input: GFM
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
