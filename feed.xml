@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://myblog.wiselight.kr/feed.xml" rel="self" type="application/atom+xml" /><link href="https://myblog.wiselight.kr/" rel="alternate" type="text/html" /><updated>2022-03-06T03:15:59+09:00</updated><id>https://myblog.wiselight.kr/feed.xml</id><title type="html">賢旭</title><subtitle>김현욱의 GitHub 블로그.</subtitle><author><name>Hyeonuk Kim</name></author><entry><title type="html">Data Science 참고자료</title><link href="https://myblog.wiselight.kr/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4/2022/03/05/data-science-%EC%B0%B8%EA%B3%A0%EC%9E%90%EB%A3%8C.html" rel="alternate" type="text/html" title="Data Science 참고자료" /><published>2022-03-05T23:45:00+09:00</published><updated>2022-03-05T23:45:00+09:00</updated><id>https://myblog.wiselight.kr/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4/2022/03/05/data-science-%EC%B0%B8%EA%B3%A0%EC%9E%90%EB%A3%8C</id><content type="html" xml:base="https://myblog.wiselight.kr/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4/2022/03/05/data-science-%EC%B0%B8%EA%B3%A0%EC%9E%90%EB%A3%8C.html">&lt;p&gt;&lt;a href=&quot;https://blog.pabii.co.kr/study-textbook-recommendation/&quot;&gt;Pabii Blog&lt;/a&gt;&lt;br /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://myblog.wiselight.kr/feed.xml" rel="self" type="application/atom+xml" /><link href="https://myblog.wiselight.kr/" rel="alternate" type="text/html" /><updated>2022-03-06T19:01:20+09:00</updated><id>https://myblog.wiselight.kr/feed.xml</id><title type="html">賢旭</title><subtitle>김현욱의 GitHub 블로그.</subtitle><author><name>Hyeonuk Kim</name></author><entry><title type="html">Data Science 참고자료</title><link href="https://myblog.wiselight.kr/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4/2022/03/05/data-science-%EC%B0%B8%EA%B3%A0%EC%9E%90%EB%A3%8C.html" rel="alternate" type="text/html" title="Data Science 참고자료" /><published>2022-03-05T23:45:00+09:00</published><updated>2022-03-05T23:45:00+09:00</updated><id>https://myblog.wiselight.kr/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4/2022/03/05/data-science-%EC%B0%B8%EA%B3%A0%EC%9E%90%EB%A3%8C</id><content type="html" xml:base="https://myblog.wiselight.kr/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4/2022/03/05/data-science-%EC%B0%B8%EA%B3%A0%EC%9E%90%EB%A3%8C.html">&lt;p&gt;&lt;a href=&quot;https://blog.pabii.co.kr/study-textbook-recommendation/&quot;&gt;Pabii Blog&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;https://hooni-playground.com/813/&quot;&gt;Hooni’s Playground&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;https://hu-nie.tistory.com/entry/ISLR-2nd-Edition-2%EC%9E%A5?category=1009792&quot;&gt;ISLR 2판 정리해둔 티스토리&lt;/a&gt;&lt;/p&gt;
 
@@ -76,6 +76,38 @@ Just promise me you won’t leave&lt;br /&gt;
   &lt;p&gt;내가 찾을 때에는 항상&lt;br /&gt;
 Baby you’re so much busy&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;h2 id=&quot;평&quot;&gt;평&lt;/h2&gt;
+&lt;p&gt;윤하 앨범중에서 제일 이질적인 5집 ‘RescuE’에서 제일 좋아하는 노래다.&lt;/p&gt;
+
+&lt;p&gt;RescuE에 수록되어 있는 곡들을 들어보면&lt;br /&gt;
+자기 분열한다고 표현할 수 있을 정도로&lt;br /&gt;
+가사안에 모순적인 내용들이 많이 들어있는데&lt;br /&gt;
+이 노래같은 경우도&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;모처럼 혼자 있는 시간&lt;br /&gt;
+매 순간에 혼자이지만&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;이라고 하면서 오랜만에 혼자가 됐다고 하지만&lt;br /&gt;
+사실은 매 순간이 혼자인 외로운 상황을 표현했다고 해석해 볼 수 있고&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I don’t wanna waste my time&lt;br /&gt;
+Don’t step in my deep inside&lt;br /&gt;
+If you wanna be with me&lt;br /&gt;
+Just promise me you won’t leave&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;깊숙히 들어오지 말라고 하면서도&lt;br /&gt;
+나와 함께 하고 싶으면 떠나지말라고 약속해달라는 부분이 되게 인상적이다.&lt;/p&gt;
+
+&lt;p&gt;해당 앨범을 내기 전 까지 윤하의 공백기 동안 슬럼프를 겪으면서&lt;br /&gt;
+심리적으로 괴롭거나 혼란스러움&lt;br /&gt;
+그 중에서도 인간관계 단절에 대한 내용을&lt;br /&gt;
+소름끼치게 잘 표현한 노래라고 생각해서&lt;br /&gt;
+나에게는 ‘다른 의미로’ 제일 좋아하는 노래다.&lt;/p&gt;
 
 &lt;h2 id=&quot;듣기&quot;&gt;듣기&lt;/h2&gt;
 
