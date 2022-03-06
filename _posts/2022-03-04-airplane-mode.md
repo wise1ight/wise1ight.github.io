@@ -76,6 +76,34 @@ Just promise me you won't leave
 > 내가 찾을 때에는 항상  
 > Baby you're so much busy
 
+## 평
+윤하 앨범중에서 제일 이질적인 5집 'RescuE'에서 제일 좋아하는 노래다.  
+
+RescuE에 수록되어 있는 곡들을 들어보면  
+자기 분열한다고 표현할 수 있을 정도로  
+가사안에 모순적인 내용들이 많이 들어있는데  
+이 노래같은 경우도  
+
+> 모처럼 혼자 있는 시간  
+> 매 순간에 혼자이지만  
+
+이라고 하면서 오랜만에 혼자가 됐다고 하지만  
+사실은 매 순간이 혼자인 외로운 상황을 표현했다고 해석해 볼 수 있고
+
+> I don't wanna waste my time  
+> Don't step in my deep inside  
+> If you wanna be with me  
+> Just promise me you won't leave
+
+깊숙히 들어오지 말라고 하면서도  
+나와 함께 하고 싶으면 떠나지말라고 약속해달라는 부분이 되게 인상적이다.
+
+해당 앨범을 내기 전 까지 윤하의 공백기 동안 슬럼프를 겪으면서  
+심리적으로 괴롭거나 혼란스러움  
+그 중에서도 인간관계 단절에 대한 내용을  
+소름끼치게 잘 표현한 노래라고 생각해서  
+나에게는 '다른 의미로' 제일 좋아하는 노래다.
+
 ## 듣기
 
 ![](https://www.youtube.com/watch?v=ZHIK_3-OW8w)
