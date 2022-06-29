@@ -1,1 +1,1 @@
-Sitemap: https://myblog.wiselight.kr/sitemap.xml
+Sitemap: http://wise1ight.github.io/sitemap.xml
